@@ -26,12 +26,12 @@ Esta es una aplicación web diseñada para ayudarte a encontrar los mejores prov
 
 ## 🚀 Despliegue en GitHub Pages
 El proyecto está en línea y puedes accederlo en el siguiente enlace:  
-[https://TU-USUARIO.github.io/califica-y-encuentra/](https://TU-USUARIO.github.io/califica-y-encuentra/)
+[https://github.com/gabigonzalz/proveedores.git](https://github.com/gabigonzalz/proveedores.git)
 
 ## ⚙️ Cómo Usar
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/califica-y-encuentra.git
+   git clone https://github.com/gabigonzalz/proveedores.git
 
 2. Abre el archivo index.html en tu navegador para visualizar el proyecto.
 
