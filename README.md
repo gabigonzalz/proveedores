@@ -26,7 +26,7 @@ Esta es una aplicación web diseñada para ayudarte a encontrar los mejores prov
 
 ## 🚀 Despliegue en GitHub Pages
 El proyecto está en línea y puedes accederlo en el siguiente enlace:  
-[https://github.com/gabigonzalz/proveedores.git](https://github.com/gabigonzalz/proveedores.git)
+[https://gabigonzalz.github.io/proveedores/](https://gabigonzalz.github.io/proveedores/)
 
 ## ⚙️ Cómo Usar
 1. Clona este repositorio:
